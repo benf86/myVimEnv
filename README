@@ -1,0 +1,9 @@
+Pluginses:
+    ag                      https://github.com/rking/ag.vim
+    syntastic               https://github.com/scrooloose/syntastic
+    vim-better-whitespace   https://github.com/ntpeters/vim-better-whitespace
+    vim-gitgutter           https://github.com/airblade/vim-gitgutter
+    vim-fugitive            https://github.com/tpope/vim-fugitive
+    nerdtree                https://github.com/scrooloose/nerdtree
+
+~/.vim/.vimrc for custom chortquts
